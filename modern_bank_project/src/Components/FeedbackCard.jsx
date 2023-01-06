@@ -1,6 +1,6 @@
 import React from 'react'
 
-const FeedbackCard = () => {
+const FeedbackCard = ({content, name, title, image}) => {
   return (
     <div>FeedbackCard</div>
   )
